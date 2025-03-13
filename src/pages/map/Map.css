@@ -1,0 +1,24 @@
+.mapWrapper{
+    overflow: hidden;
+    border-radius: 10px; 
+    border: 4px solid #e8ac78;
+    margin: 16px 0 16px 0;
+}
+.modalContainer input{
+    margin: 0 0 8px 0;
+}
+.map{
+    background: #e8ac78;
+    width: 80vw;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.topicAddContainerХ
+.mapCintainer{
+    width: 100%;
+}
+.ymaps-2-1-79-map{
+    width: 80vw;
+} 
